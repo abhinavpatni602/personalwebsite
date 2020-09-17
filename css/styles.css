@@ -52,7 +52,7 @@ p{
 }
 
 hr{
-    margin:100px auto 0 auto;
+    margin:100px auto 100px auto;
     border-top: 7px dotted lightgrey;
     width:7%;
 }
